@@ -1,0 +1,71 @@
+.w3-pale-custom {
+    background-color: rgb(238, 238, 238);
+    visibility: visible;
+    animation-name: fadeIn;
+}
+
+.w3-color-red-h1 {
+    color: #d9534f;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.pill {
+    padding: 3.236em 2.618em;
+}
+
+div {
+    display: block;
+}
+
+.bg-dark1 {
+    background: rgb(28, 34, 41);
+}
+
+.pv4 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.black-70 {
+    color: rgba(0,0,0,.7);
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex {
+    display: flex;
+}
+
+.b--black-10 {
+    border-color: rgba(0,0,0,.1);
+    border-top-color: rgba(0,0,0,.1);
+    border-right-color: rgba(0,0,0,.1);
+    border-bottom-color: rgba(0,0,0,.1);
+    border-left-color: rgba(0,0,0,.1);
+}
+
+.bt {
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.ff-gw-arial {
+    font-family: "Graphik Web", Arial;
+    font-size: 1rem;
+    font-feature-settings: "liga", "kern"
+}
+
+.dark3 {
+    color: rgb(131, 147, 163);
+}
+
+.fw6 {
+    font-weight: 600;
+}
